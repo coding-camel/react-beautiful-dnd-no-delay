@@ -10,9 +10,9 @@ This is a temporary fix until we get an official solution.
 
 1. `npm uninstall react-beautiful-dnd`
 
-2. `npm i coding-cucumber/react-beautiful-dnd-instant`
+2. `npm i coding-camel/react-beautiful-dnd-instant`
 
-All your imports should still work.
+All existing imports will still work.
 
 ### Changelog:
 
