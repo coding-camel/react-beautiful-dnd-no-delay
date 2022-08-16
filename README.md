@@ -1,10 +1,10 @@
 ### Overview
 
-The problem: Instant dragging is not possible on touch devices.
+The problem: dragging a handle with no delay is not possible on touch devices.
 
-This package fixes that by setting the `timeForLongPress` to 0.
+Lazy fix: This package sets `timeForLongPress` to 0.
 
-This is a temporary fix until we get an official solution.
+It's a temporary solution until we get an official solution.
 
 ### How to use:
 
