@@ -10,7 +10,7 @@ It's a temporary fix until we get an official solution.
 
 1. `npm uninstall react-beautiful-dnd`
 
-2. `npm i coding-camel/react-beautiful-dnd-instant`
+2. `npm i rookbreezy/react-beautiful-dnd-instant`
 
 All existing imports will still work.
 
