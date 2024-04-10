@@ -16,6 +16,8 @@ All existing imports will still work.
 
 ### Changelog:
 
+10 April 2024: Updated to v13.1.1
+
 16 May 2021: Updated to v13.1.0
 
 30 July 2020: Released with v13.0.0
